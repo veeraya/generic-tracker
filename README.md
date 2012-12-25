@@ -1,4 +1,5 @@
 Generic page tracker
 =====================
-A spin-off from (The Ellen DeGeneres Ticket Tracker)[https://github.com/veeraya/ellen-tickets-tracker].
-It's to track and notify change in a specified page.
+A spin-off from [The Ellen DeGeneres Ticket Tracker](https://github.com/veeraya/ellen-tickets-tracker).
+
+As the name suggests, Generic Tracker tracks changes in the page specified by the user.
